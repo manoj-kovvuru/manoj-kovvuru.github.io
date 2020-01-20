@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: My blog
-description: *I have a blog!*
+description: I have a blog!
 github_username: manoj-kovvuru
 
 # Email and twitter are optional:
