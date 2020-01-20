@@ -6,7 +6,7 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Manoj's blog
+title: My blog
 description: *I have a blog!*
 github_username: manoj-kovvuru
 
