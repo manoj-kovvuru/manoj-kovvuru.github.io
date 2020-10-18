@@ -1,6 +1,6 @@
 # About
 
-I am a researcher who worked at [CSIR](https://www.csir.res.in/) for 2 years. I completed my Master's degree in Mechatronics at School of Mechatronics & Robotics in [Indian Institute of Engineering Science and Technology](https://www.iiests.ac.in/). I am passionate about science and it's implementation. I spend most of time in Mathematics and coding.
+![photo](/images/photo.png)I am a researcher who worked at [CSIR](https://www.csir.res.in/) for 2 years. I completed my Master's degree in Mechatronics at School of Mechatronics & Robotics in [Indian Institute of Engineering Science and Technology](https://www.iiests.ac.in/). I am passionate about science and it's implementation. I spend most of time in Mathematics and coding.
 
 I am a self taught programmer. Thanks to [Andrew Ng](https://www.coursera.org/instructor/andrewng) and [3Blue1Brown](https://www.youtube.com/c/3blue1brown) who ignited me to learn Machine Learning. I am a fan of [Franchois Chollet](https://twitter.com/fchollet),  [Andrej Karpathy](https://karpathy.ai/) and [Jeremy Howard](https://twitter.com/jeremyphoward) in Deep Learning. 
 
