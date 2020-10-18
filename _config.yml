@@ -7,12 +7,12 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Manoj's quest
-description: I have a blog!
+description: Committed towards better future
 github_username: manoj-kovvuru
 
 # Email and twitter are optional:
 email: 
-twitter_username: Man07K
+twitter_username: manoj_io
 
 # Set this to true to get LaTeX math equation support
 use_math: 
