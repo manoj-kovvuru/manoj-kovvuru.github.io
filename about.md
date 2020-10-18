@@ -1,7 +1,7 @@
 # About
 
 <div class="img-div" markdown="0">
-  <image src="/images/photo.png"/>
+  <image src="/images/photo.jpeg"/>
   <br />
 </div>
 I am a researcher who worked at [CSIR](https://www.csir.res.in/) for 2 years. I completed my Master's degree in Mechatronics at School of Mechatronics & Robotics in [Indian Institute of Engineering Science and Technology](https://www.iiests.ac.in/). I am passionate about science and it's implementation. I spend most of time in Mathematics and coding.
